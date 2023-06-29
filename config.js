@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 /*============== INFO OWNER ==============*/
 global.link = {
 	ig: 'https://instagram.com/rhar.store',
-	gh: 'https://github.com/RyHarJr', 
+	gh: 'https://github.com/RyHarJr',
 	gc: 'https://chat.whatsapp.com/G4ZNj3c9k6GHOnzsRwFKp3',
 	web: 'https://linktr.ee/elaina_official',
 	nh: 'https://nhentai.net/g/365296/'
@@ -30,9 +30,9 @@ global.info = {
 
 /*============== STAFF ==============*/
 global.owner = [
-    ['6282121292502', 'Nagi', 'true'],
+    ['6282328387707', 'Elaina', 'true'],
     ['6282121292502',  'xzee', 'true']
-    // [number, dia creato2r/owner?, dia developer?]
+    // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
@@ -58,8 +58,8 @@ global.APIKeys = {
 }
 
 /*============== WATERMARK ==============*/
-global.wm = 'Nagi  𝐵 𝑂 𝑇 ' //Main Watermark
-global.author = 'Nagi  𝐵 𝑂 𝑇'
+global.wm = 'Elaina  𝐵 𝑂 𝑇 ' //Main Watermark
+global.author = 'Elaina  𝐵 𝑂 𝑇'
 
 /*============== TEXT ==============*/
 global.wait = '_In Progress_, _Please Wait..._'
@@ -97,7 +97,7 @@ global.decor = {
 	htjava: '❃'
 }
 
-global.Elainajpg = [
+global.elainajpg = [
     'https://i.ibb.co/TgSLJxr/e5d98b50efd91b142977a.jpg',
     'https://telegra.ph/file/5db2f0315bcd4c3ab665a.jpg',
     'https://telegra.ph/file/dd14e4d2a3428e12fed9e.jpg',
